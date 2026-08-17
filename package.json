@@ -1,0 +1,24 @@
+{
+  "name": "recuperacaobackendapi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mateusbohntb-ai/RecuperacaoBackendAPI#readme",
+  "bugs": {
+    "url": "https://github.com/mateusbohntb-ai/RecuperacaoBackendAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusbohntb-ai/RecuperacaoBackendAPI.git"
+  },
+  "license": "ISC",
+  "author": "Mateus Bohn dos Santos",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
